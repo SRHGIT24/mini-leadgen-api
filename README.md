@@ -1,0 +1,1 @@
+# Mini Lead Gen API\nA small FastAPI project to simulate AI-driven lead generation. Generates fake leads and drafts personalized messages. Built as a learning project to explore FastAPI, APIs, and database interaction.
